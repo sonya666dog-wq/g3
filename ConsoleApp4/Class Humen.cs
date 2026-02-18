@@ -10,10 +10,10 @@ namespace ConsoleApp4
 
     {
         public int Age = 17;
-        public string Gender = "мужской";
-        public string FirstName = "Никита";
-        public string LastName = "Туркин";
-        public string MiddleName = "Юрьевич";
+        public string Gender = "Женсикй";
+        public string FirstName = "Софья";
+        public string LastName = "Матяшова";
+        public string MiddleName = "Евгеньевна";
 
 
         public void ShowAllInfo()
